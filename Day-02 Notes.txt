@@ -1,0 +1,15 @@
+INTERNSHIP LEARNING SUMMARY
+
+This repository contains the work and learnings completed during my internship. 
+I gained hands-on experience in real-world software development by applying SDLC concepts, Agile practices, testing methodologies, and CI/CD workflows.
+
+Key Highlights:
+- Understood Software Development Life Cycle (SDLC)
+- Worked in Agile and Scrum environments
+- Performed unit testing, validation, and debugging
+- Implemented features through practical coding
+- Collaborated with team members
+- Delivered production-ready solutions within deadlines
+
+Outcome:
+Developed strong problem-solving skills, improved technical knowledge, and gained practical exposure to industry-level development processes.
